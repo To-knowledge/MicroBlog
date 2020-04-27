@@ -1,0 +1,7 @@
+2020-03-29 15:07:19.814  INFO 6936 --- [restartedMain] c.x.blogutimate.BlogutimateApplication   : Starting BlogutimateApplication on DESKTOP-771L3KQ with PID 6936 (E:\JetBrainsWorkspace\JavaWorkspace\blogutimate\target\classes started by xiaoyuquan in E:\JetBrainsWorkspace\JavaWorkspace\blogutimate)
+2020-03-29 15:07:19.815  INFO 6936 --- [restartedMain] c.x.blogutimate.BlogutimateApplication   : The following profiles are active: pro
+2020-03-29 15:07:22.218  WARN 6936 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-03-29 15:07:22.633  INFO 6936 --- [restartedMain] c.x.blogutimate.BlogutimateApplication   : Started BlogutimateApplication in 3.138 seconds (JVM running for 3.867)
+2020-03-29 15:18:21.869  INFO 4392 --- [restartedMain] c.x.blogutimate.BlogutimateApplication   : Starting BlogutimateApplication on DESKTOP-771L3KQ with PID 4392 (E:\JetBrainsWorkspace\JavaWorkspace\blogutimate\target\classes started by xiaoyuquan in E:\JetBrainsWorkspace\JavaWorkspace\blogutimate)
+2020-03-29 15:18:21.869  INFO 4392 --- [restartedMain] c.x.blogutimate.BlogutimateApplication   : The following profiles are active: pro
+2020-03-29 15:18:24.676  INFO 4392 --- [restartedMain] c.x.blogutimate.BlogutimateApplication   : Started BlogutimateApplication in 3.152 seconds (JVM running for 3.876)
